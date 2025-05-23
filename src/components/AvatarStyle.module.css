@@ -1,0 +1,12 @@
+.avatar img{
+        width: 100px;
+        height: 100px;
+        border-radius: 50%;
+        object-fit: cover;
+        
+}
+
+img[alt]{
+font-size: 12px;
+text-align: center;
+}
